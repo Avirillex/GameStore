@@ -1,3 +1,3 @@
 # GameStore
 A game store
-Visit: https://avirillex.github.io/GameStore/
+Please visit: https://avirillex.github.io/GameStore/
