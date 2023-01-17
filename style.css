@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    color: white;
+    background-color: black;
+}
+.logo-container {
+    display: flex;
+    background-color: white;
+    height: 4.3em;
+    width: 4.3em;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    display: grid;
+    height: 40px;
+}
+
+header {
+    background-color: gray;
+}
+
+footer {
+    margin-top: auto;
+    background-color: #666666;
+}
